@@ -1,1 +1,1 @@
-这里是sass的语法
+Sass syntax
